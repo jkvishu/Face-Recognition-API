@@ -3,6 +3,7 @@ Simple face recognition api with express.js and mongoose
 <h1 align="centre">Steps to use this api</h1>
 <h3>Step:1 You must have brew installed on your system</h3>
 <p>TO install brew paste this command in your terminal
+<br>
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 </p>
 <br>
