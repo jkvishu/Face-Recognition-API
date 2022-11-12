@@ -17,3 +17,7 @@ Simple face recognition api with express.js and mongoose
 
 
 <h4>NOTE:->> Make it sure that Your current directory must be the project directory before u install all npm packages<h4>
+<hr>
+
+<h4>Now you can test the api using postman software </h4>
+<h6>Download it from here 👉 https://www.postman.com/downloads/ <h6>
