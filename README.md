@@ -4,13 +4,13 @@ Simple face recognition api with express.js and mongoose
 <h3>Step:1 You must have brew installed on your system</h3>
 <p>TO install brew paste this command in your terminal
 <br>
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+<h4>/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"<h4>
 </p>
 <br>
 <hr>
 <h3>Step:2 Now you must install these package's in order to use canvas package</h3>
-<p>brew install pkg-config cairo pango libpng jpeg giflib librsvg</p>
+<h4>brew install pkg-config cairo pango libpng jpeg giflib librsvg</h4>
 <br>
 <hr>
 <h3>Step:3 Install all npm packages</h3>
-<p>npm i</p>
+<h2>npm i</h2>
