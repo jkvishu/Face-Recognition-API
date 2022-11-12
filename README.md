@@ -12,5 +12,8 @@ Simple face recognition api with express.js and mongoose
 <h4>brew install pkg-config cairo pango libpng jpeg giflib librsvg</h4>
 <br>
 <hr>
-<h3>Step:3 Install all npm packages</h3>
+<h3>Step:3 Install all npm packages using the below command in your terminal</h3>
 <h2>npm i</h2>
+
+
+<h4>NOTE:->> Make it sure that Your current directory must be the project directory before u install all npm packages<h4>
